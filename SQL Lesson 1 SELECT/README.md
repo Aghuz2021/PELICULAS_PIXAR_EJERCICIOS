@@ -20,7 +20,7 @@ FROM mytable;
 ```
 Esta consulta, en particular, es realmente útil porque es una forma sencilla de inspeccionar una tabla volcando todos los datos a la vez.
 
-# RESULTADOS
+# RESULTADOS EJERCICIOS
 ```sql
 --1-Find the title of each film ✓
 	SELECT title  FROM movies;
